@@ -7,7 +7,7 @@ Contains a list of projects which are/will be implemented during the course.
 
 ## License
 ```
-Copyright (C) 2016 Maximilian Frick
+Copyright 2016 Maximilian Frick
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
